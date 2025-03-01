@@ -3,6 +3,7 @@ Hi there!<br>My name is Egor and I'm currently a student at SSU studying to beco
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kzerk) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:egorkuz1408@gmail.com) 
 
 # 💻 Tech Stack:
